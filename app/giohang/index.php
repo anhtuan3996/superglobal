@@ -47,7 +47,10 @@ if(!isset($_SESSION["card"]["id_1"])) {
 
 print_r($_SESSION);
 
+echo "12347877666";
+
 ?>
 
 </body>
 </html>
+
